@@ -171,6 +171,7 @@ label {
     width: 34vw;
     font-weight: 400;
     justify-self: flex-end;
+    font-family: 'Bebas Neue', sans-serif;
 }
 
 .heroDescription p {
@@ -257,6 +258,7 @@ label {
     font-size: 1.1vw;
     color: #06BAB8;
     font-weight: 400;
+    font-family: 'Bebas Neue', sans-serif;
 }
 
 .server-details p {
