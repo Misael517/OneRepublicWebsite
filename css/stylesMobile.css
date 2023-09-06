@@ -156,7 +156,6 @@
         flex-direction: column;
         justify-content: center;
         align-items: flex-start;
-        font-family: 'Bebas Neue', sans-serif;
         color: white;
         gap: 3.5vw;
         z-index: 3;
@@ -169,7 +168,8 @@
         text-align: left;
         color: #06BAB8;
         line-height: 13.8vw;
-        font-weight: 400;
+        font-family: "bebas-neue-by-fontfabric", sans-serif;
+        font-weight: 700;
         justify-self: flex-end;
         width: 100%;
     }
@@ -225,7 +225,6 @@
         justify-content: center;
         align-items: center;
         gap: 16vw;
-        font-family: 'Roboto', sans-serif;
         height: 77vw;
         width: 100%;
         background-color: black;
@@ -254,13 +253,13 @@
         justify-content: center;
         align-items: center;
         gap: 1.8vw;
-        font-family: "Bebas Neue", sans-serif;
     }
 
     .server-details h3 {
         font-size: 5vw;
         color: #06BAB8;
-        font-weight: 400;
+        font-family: "bebas-neue-by-fontfabric", sans-serif;
+        font-weight: 700;
     }
 
     .server-details p {
@@ -319,8 +318,8 @@
 
     .roles-title h2 {
         font-size: 10vw;
-        font-family: "Bebas Neue", sans-serif;
-        font-weight: 400;
+        font-family: "bebas-neue-by-fontfabric", sans-serif;
+        font-weight: 700;
         color: #06BAB8;
         z-index: 3;
     }
@@ -374,8 +373,8 @@
 
 
     .roles-content h3 {
-        font-family: "Bebas neue", sans-serif;
-        font-weight: 400;
+        font-family: "bebas-neue-by-fontfabric", sans-serif;
+        font-weight: 700;
         font-size: 7.5vw;
         color: #06BAB8;
     }
@@ -461,8 +460,8 @@
 
     .business-Description h2 {
         font-size: 10vw;
-        font-family: "Bebas Neue", sans-serif;
-        font-weight: 400;
+        font-family: "bebas-neue-by-fontfabric", sans-serif;
+        font-weight: 700;
         color: #06BAB8;
         z-index: 3;
         line-height: 2vw;
@@ -532,8 +531,8 @@
 
     .vehicles-title h2 {
         font-size: 10vw;
-        font-family: "Bebas Neue", sans-serif;
-        font-weight: 400;
+        font-family: "bebas-neue-by-fontfabric", sans-serif;
+        font-weight: 700;
         color: #06BAB8;
         z-index: 3;
         line-height: 2vw;
@@ -600,8 +599,8 @@
 
     .missions-Description h2 {
         font-size: 10vw;
-        font-family: "Bebas Neue", sans-serif;
-        font-weight: 400;
+        font-family: "bebas-neue-by-fontfabric", sans-serif;
+        font-weight: 700;
         color: #06BAB8;
         z-index: 3;
         line-height: 2vw;
@@ -699,8 +698,8 @@
 
     .instagram-Description h2 {
         font-size: 10vw;
-        font-family: "Bebas Neue", sans-serif;
-        font-weight: 400;
+        font-family: "bebas-neue-by-fontfabric", sans-serif;
+        font-weight: 700;
         color: #06BAB8;
         z-index: 3;
         line-height: 2vw;
@@ -792,8 +791,8 @@
 
 
     footer h4 {
-        font-family: "Bebas neue";
-        font-weight: 400;
+        font-family: "bebas-neue-by-fontfabric", sans-serif;
+        font-weight: 700;
         color: #06BAB8;
         font-size: 3.5vw;
         margin-bottom: 0.48vw;
@@ -986,7 +985,6 @@
         flex-direction: column;
         justify-content: center;
         align-items: flex-start;
-        font-family: 'Bebas Neue', sans-serif;
         color: white;
         gap: 3.5vw;
         z-index: 3;
@@ -999,7 +997,8 @@
         text-align: left;
         color: #06BAB8;
         line-height: 13.8vw;
-        font-weight: 400;
+        font-family: "bebas-neue-by-fontfabric", sans-serif;
+        font-weight: 700;
         justify-self: flex-end;
         width: 100%;
     }
@@ -1085,7 +1084,8 @@
         justify-content: center;
         align-items: center;
         gap: 1.8vw;
-        font-family: "Bebas Neue", sans-serif;
+        font-family: "bebas-neue-by-fontfabric", sans-serif;
+        font-weight: 700;
     }
 
     .server-details h3 {
@@ -1150,8 +1150,8 @@
 
     .roles-title h2 {
         font-size: 10vw;
-        font-family: "Bebas Neue", sans-serif;
-        font-weight: 400;
+        font-family: "bebas-neue-by-fontfabric", sans-serif;
+        font-weight: 700;
         color: #06BAB8;
         z-index: 3;
     }
@@ -1205,8 +1205,8 @@
 
 
     .roles-content h3 {
-        font-family: "Bebas neue", sans-serif;
-        font-weight: 400;
+        font-family: "bebas-neue-by-fontfabric", sans-serif;
+        font-weight: 700;
         font-size: 7.5vw;
         color: #06BAB8;
     }
@@ -1292,8 +1292,8 @@
 
     .business-Description h2 {
         font-size: 10vw;
-        font-family: "Bebas Neue", sans-serif;
-        font-weight: 400;
+        font-family: "bebas-neue-by-fontfabric", sans-serif;
+        font-weight: 700;
         color: #06BAB8;
         z-index: 3;
         line-height: 2vw;
@@ -1363,8 +1363,8 @@
 
     .vehicles-title h2 {
         font-size: 10vw;
-        font-family: "Bebas Neue", sans-serif;
-        font-weight: 400;
+        font-family: "bebas-neue-by-fontfabric", sans-serif;
+        font-weight: 700;
         color: #06BAB8;
         z-index: 3;
         line-height: 2vw;
@@ -1431,8 +1431,8 @@
 
     .missions-Description h2 {
         font-size: 10vw;
-        font-family: "Bebas Neue", sans-serif;
-        font-weight: 400;
+        font-family: "bebas-neue-by-fontfabric", sans-serif;
+        font-weight: 700;
         color: #06BAB8;
         z-index: 3;
         line-height: 2vw;
@@ -1530,8 +1530,8 @@
 
     .instagram-Description h2 {
         font-size: 10vw;
-        font-family: "Bebas Neue", sans-serif;
-        font-weight: 400;
+        font-family: "bebas-neue-by-fontfabric", sans-serif;
+        font-weight: 700;
         color: #06BAB8;
         z-index: 3;
         line-height: 2vw;
@@ -1623,8 +1623,8 @@
 
 
     footer h4 {
-        font-family: "Bebas neue";
-        font-weight: 400;
+        font-family: "bebas-neue-by-fontfabric", sans-serif;
+        font-weight: 700;
         color: #06BAB8;
         font-size: 3.5vw;
         margin-bottom: 1.4vw;
