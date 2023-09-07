@@ -225,7 +225,7 @@
         justify-content: center;
         align-items: center;
         gap: 16vw;
-        height: 77vw;
+        height: 115vw;
         width: 100%;
         background-color: black;
         position: relative;
@@ -234,7 +234,7 @@
 
     .features-section::before {
         content: "";
-        height: 77vw;
+        height: 80vw;
         width: 100%;
         position: absolute;
         top: 0vw;
@@ -243,7 +243,7 @@
         opacity: 1;
         border-radius: 392px;
         background: radial-gradient(30.93% 30.93% at 50.00% 69.07%, #06BAB8 0%, rgba(0, 0, 0, 0.00) 100%);
-        filter: blur(100px);
+        filter: blur(170px);
         z-index: 1;
     }
 
@@ -280,7 +280,7 @@
     .roles-section {
         display: flex;
         flex-direction: column;
-        height: 430vw;
+        height: 420vw;
         width: 100%;
         z-index: 2;
         gap: 25vw;
@@ -297,7 +297,7 @@
         opacity: 19%;
         top: 0;
         left: 0;
-        height: 435vw;
+        height: 420vw;
         width: 100%;
         background-image: url('/images/backgrounds/3_Backgrounbd.webp');
         background-position: top;
@@ -389,7 +389,7 @@
         display: flex;
         align-items: center;
         flex-direction: column;
-        height: 448vw;
+        height: 468vw;
         width: 100%;
         z-index: 3;
         gap: 40vw;
@@ -1084,14 +1084,13 @@
         justify-content: center;
         align-items: center;
         gap: 1.8vw;
-        font-family: "bebas-neue-by-fontfabric", sans-serif;
-        font-weight: 700;
     }
 
     .server-details h3 {
         font-size: 5vw;
         color: #06BAB8;
-        font-weight: 400;
+        font-family: "bebas-neue-by-fontfabric", sans-serif;
+        font-weight: 700;
     }
 
     .server-details p {
