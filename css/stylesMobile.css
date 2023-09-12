@@ -255,7 +255,7 @@
         gap: 1.8vw;
     }
 
-    .server-details h3 {
+    .server-details h2 {
         font-size: 5vw;
         color: #06BAB8;
         font-family: "bebas-neue-by-fontfabric", sans-serif;
@@ -790,7 +790,7 @@
     }
 
 
-    footer h4 {
+    footer h2 {
         font-family: "bebas-neue-by-fontfabric", sans-serif;
         font-weight: 700;
         color: #06BAB8;
@@ -1086,7 +1086,7 @@
         gap: 1.8vw;
     }
 
-    .server-details h3 {
+    .server-details h2 {
         font-size: 5vw;
         color: #06BAB8;
         font-family: "bebas-neue-by-fontfabric", sans-serif;
@@ -1621,7 +1621,7 @@
     }
 
 
-    footer h4 {
+    footer h2 {
         font-family: "bebas-neue-by-fontfabric", sans-serif;
         font-weight: 700;
         color: #06BAB8;
