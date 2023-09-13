@@ -129,7 +129,7 @@ function changeLanguage(e) {
                 text.textContent = 'Viste tu personaje con vestimentas unicas y crea una gran impresion en la ciudad'
 
             } else if (lowerFeaturesContent.includes('purchasing')) {
-                text.textContent = `Asegura tus objetos, autos, y otros bienes comprando 
+                text.textContent = `Asegura tus objetos, autos y otros bienes comprando 
                 la casa de tu sueños en One Republic`
 
             } else if (lowerFeaturesContent.includes('gaing')) {
@@ -174,8 +174,8 @@ function changeLanguage(e) {
             } else if (lowerBusinessContent.includes('entrepreneurial')) {
                 text.textContent = `Entra en el mundo empresarial adquiriendo tu propio negocio y contruye tu imperio`
 
-            } else if (lowerBusinessContent.includes('learn')) {
-                text.textContent = 'Ver mas'
+            } else if (lowerBusinessContent.includes('business')) {
+                text.textContent = 'Empezar negocio'
             }
         })
 
@@ -200,8 +200,8 @@ function changeLanguage(e) {
             } else if (lowerMissionsContent.includes('explore')) {
                 text.textContent = `Explora la ciudad y disfruta el juego con nuevas misiones disponibles alrededor del mapa`
 
-            } else if (lowerMissionsContent.includes('learn more')) {
-                text.textContent = 'Ver mas'
+            } else if (lowerMissionsContent.includes('play')) {
+                text.textContent = 'Probar misiones'
             }
         })
 
@@ -313,7 +313,7 @@ function changeLanguage(e) {
                 text.textContent = 'Dress your character with unique clothes and make a lasting impression in the city'
 
             } else if (lowerFeaturesContent.includes('sueños')) {
-                text.textContent = `Secure your items, cars, and other assets by purchasing your dream house in One Republic`
+                text.textContent = `Secure your items, cars and other assets by purchasing your dream house in One Republic`
 
             }
         })
@@ -352,8 +352,8 @@ function changeLanguage(e) {
             } else if (lowerBusinessContent.includes('empresarial')) {
                 text.textContent = `Dive into the entrepreneurial world by buying a business and build your own empire`
 
-            } else if (lowerBusinessContent.includes('ver')) {
-                text.textContent = 'Learn more'
+            } else if (lowerBusinessContent.includes('negocio')) {
+                text.textContent = 'Start business'
             }
         })
 
@@ -389,8 +389,8 @@ function changeLanguage(e) {
             } else if (lowerMissionsContent.includes('explora')) {
                 text.textContent = `Explore the city and immerse yourself with a brand new set of missions that everybody can enjoy`
 
-            } else if (lowerMissionsContent.includes('ver mas')) {
-                text.textContent = 'Learn more'
+            } else if (lowerMissionsContent.includes('probar')) {
+                text.textContent = 'Play missions'
             }
         })
 

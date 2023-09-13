@@ -178,7 +178,7 @@ label {
 
 .heroDescription p {
     font-family: 'Roboto', sans-serif;
-    font-size: calc(0.8vw + 0.4rem);
+    font-size: calc(1vw + 0.1rem);
     line-height: 1.8vw;
     width: 22vw;
     font-weight: 400;
