@@ -175,7 +175,7 @@ function changeLanguage(e) {
                 text.textContent = `Entra en el mundo empresarial adquiriendo tu propio negocio y contruye tu imperio`
 
             } else if (lowerBusinessContent.includes('business')) {
-                text.textContent = 'Empezar negocio'
+                text.textContent = 'Empezar ya'
             }
         })
 
@@ -195,13 +195,13 @@ function changeLanguage(e) {
             const lowerMissionsContent = text.textContent.trim().toLocaleLowerCase();
 
             if (lowerMissionsContent.includes('everyone')) {
-                text.textContent = 'Nuevas Misiones para todos'
+                text.textContent = 'Misiones para todos'
 
             } else if (lowerMissionsContent.includes('explore')) {
                 text.textContent = `Explora la ciudad y disfruta el juego con nuevas misiones disponibles alrededor del mapa`
 
             } else if (lowerMissionsContent.includes('play')) {
-                text.textContent = 'Probar misiones'
+                text.textContent = 'Iniciar ya'
             }
         })
 
@@ -389,7 +389,7 @@ function changeLanguage(e) {
             } else if (lowerMissionsContent.includes('explora')) {
                 text.textContent = `Explore the city and immerse yourself with a brand new set of missions that everybody can enjoy`
 
-            } else if (lowerMissionsContent.includes('probar')) {
+            } else if (lowerMissionsContent.includes('iniciar')) {
                 text.textContent = 'Play missions'
             }
         })
