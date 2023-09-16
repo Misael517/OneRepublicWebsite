@@ -352,7 +352,7 @@ function changeLanguage(e) {
             } else if (lowerBusinessContent.includes('empresarial')) {
                 text.textContent = `Dive into the entrepreneurial world by buying a business and build your own empire`
 
-            } else if (lowerBusinessContent.includes('negocio')) {
+            } else if (lowerBusinessContent.includes('empezar')) {
                 text.textContent = 'Start business'
             }
         })
