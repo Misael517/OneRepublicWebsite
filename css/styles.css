@@ -54,19 +54,25 @@ header {
 
 }
 
-.navbar ul li a {
+.navText {
     color: white;
     text-decoration: none;
     font-weight: 400;
     font-size: calc(0.52vw + 0.25rem);
     font-display: swap;
+    transition: 25ms;
+}
+
+.navText:hover {
+    border-bottom: 2px solid #FF1E7D;
+    transition: 25ms;
 }
 
 .button {
     background-color: #FF1E7D;
     border: none;
-    padding-top: 0.258vw;
-    padding-bottom: 0.258vw;
+    padding-top: 0.22vw;
+    padding-bottom: 0.22vw;
     padding-left: 0.56vw;
     padding-right: 0.56vw;
     border-radius: 5px;
@@ -80,6 +86,7 @@ header {
 .button:hover {
     background-color: #8a1244;
     transition: 250ms;
+    border-bottom: none;
 }
 
 
