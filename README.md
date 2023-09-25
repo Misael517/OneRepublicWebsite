@@ -9,8 +9,8 @@ Hello, my name is Misael, and this is my personal project 'One Republic'. This p
 
 -- Overview --
 
-This website is designed to promote the services of One Republic server (This server is active, and I'm part of the developer group, and this is a demo website). It is dedicated to video games like GTA 5. In order to use this server you should have
-the FiveM platform installed in your PC along side the video game.
+This website is designed to promote the services of One Republic server (This server is active, and I'm part of the developer group, and this is a demo website). It is dedicated to video games like GTA 5. In order to use this server, you should 
+have the FiveM platform installed in your PC alongside the video game.
 
 
 
